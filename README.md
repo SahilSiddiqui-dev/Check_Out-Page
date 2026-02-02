@@ -20,7 +20,7 @@ Easy to integrate with payment APIs or backend services
 
 React / Vite or CRA
 
-JavaScript (ES6+)
+TypeScript
 
 CSS / Tailwind / Styled Components (whatever you used)
 
